@@ -1,2 +1,2 @@
 # PokeMart
- Pokemon Shop with functions/formulas and other tabs with practice examples
+ Pokemon Shop Excel Spreadsheet with functions/formulas and other tabs with practice examples
